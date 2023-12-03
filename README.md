@@ -43,9 +43,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Mariana Sortino**
+👤 **Andres Eduardo Garcia Mendoza**
 
-- GitHub: [@marianasortino](https://github.com/marianasortino)
+- GitHub: [@LalTokio](https://github.com/LalTokio)
 
 ## 🤝 Contributing
 
